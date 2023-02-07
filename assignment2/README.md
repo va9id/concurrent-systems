@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Build a very basic three part system consisting of a client, an host, and a server. The client sends requests to the  host, which sends them on to the server. The server sends responses to the host, which sends them on to the client. From the client's point of view, the host appears to be the server. From the server's point of view, the host appears to be the client. The intermediate host will not change the packets, it will just send them on.
+Build a very basic three part system consisting of a client, an host, and a server. The client sends requests to the  host, which sends them on to the server. The server sends responses to the host, which sends them on to the client. From the client's point of view, the host appears to be the server. From the server's point of view, the host appears to be the client.
 
 ### Client Algorithm 
 Client DatagramPacket is either a *read* or *write* request with the following format: 
