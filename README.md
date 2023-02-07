@@ -4,4 +4,11 @@ The following repository contains Java assignments for my real time concurrent s
 
 ## Description 
 
-Each assignment folder has a README that explains the assignment problem along with the solution code and instructions on how to run it. 
+Each assignment folder has a README that explains the assignment problem and instructions on how to run it. 
+
+## Installation 
+
+- **Prerequisites**: 
+    - Install the latest version of [Java](https://www.java.com/en/) and [IntelliJ](https://www.jetbrains.com/idea/).
+
+- Clone the repository, navigate to the desired assignment, and follow the instructions in it's README to run. 
