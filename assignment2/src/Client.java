@@ -40,7 +40,7 @@ public class Client {
             readOrWrite = 2;
         }
         byte zero = 0;
-        String filename = "vahid.txt";
+        String filename = "test.txt";
         byte[] filenameAsBytes = filename.getBytes();
         String mode = "netascii";
         byte[] modeAsBytes = mode.getBytes();
