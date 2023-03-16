@@ -1,3 +1,6 @@
+/**
+ * Pedestrian Enabled super state
+ */
 public class PedestriansEnabled extends State{
 
     public PedestriansEnabled(boolean onEntry) {
@@ -5,3 +8,4 @@ public class PedestriansEnabled extends State{
     }
 
 }
+
